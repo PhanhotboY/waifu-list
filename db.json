@@ -1,29 +1,24 @@
-{
-    "Tokisaki Kurumi": 
+[ 
     {  
         "_id": {    
             "$oid": "62bfae4eb72116a20aaaf70a"  
         }
     },
-    "characterInfo": 
     {
         "name": "Tokisaki Kurumi",  
         "nickName": "Kurumin, Nightmare",  
         "dateOfBirth": "June 10th",  
         "age": 18
     },
-    "appearence": 
     {
         "height": "157 cm",  
         "hairColor": "black"
     },
-    "other": 
     {
         "anime": "Date A Live",  
         "seiyuu": "Asami Sanada",  
         "image": "https://static.wikia.nocookie.net/date-a-live/images/8/85/Kurumi_surprised.jpeg/revision/latest?cb=20140503085210"
-    },
-    "Sakurajima Mai": 
+    }, 
     {   
         "_id": {
             "$oid": "62bfac4eb72116a20aaaf708"
@@ -38,7 +33,6 @@
         "seiyuu": "Asami Seto", 
         "image": "https://static.wikia.nocookie.net/aobuta/images/0/0c/Sakurajima_pointing.gif/revision/latest/scale-to-width-down/201?cb=20181109002725"
     },
-    "C.C": 
     {  
         "_id": {    
             "$oid": "62bfb00bb72116a20aaaf70b"  
@@ -53,7 +47,6 @@
         "seiyuu": "Yukana",  
         "image": "https://static.wikia.nocookie.net/codegeass/images/7/72/CODE_GEASS_R2_-_16_-_Large_20-c.c..jpg/revision/latest/scale-to-width-down/180?cb=20120102090728"
     },
-    "Violet Evergarden": 
     {  
         "_id": {    
             "$oid": "62bfb6a5b72116a20aaaf70c"  
@@ -68,7 +61,6 @@
         "seiyuu": "Yui Ishikawa",  
         "image": "https://static.zerochan.net/Violet.Evergarden.%28Character%29.full.2329445.jpg"
     },
-    "Fujiwara Chika": 
     {  
         "_id": {    
             "$oid": "62bfbcd9b72116a20aaaf70d"  
@@ -83,7 +75,6 @@
         "seiyuu": "Konomi Kohara",  
         "image": "https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/7/7b/B0C59E35-D200-4907-BDB6-5E46931488F8.gif/revision/latest/scale-to-width-down/185?cb=20201127194207"
     },
-    "Hayasaka Ai":
     {  
         "_id": {
             "$oid": "62bfbe61b72116a20aaaf70e"  
@@ -98,7 +89,6 @@
         "seiyuu": "Yumiri Hanamori",  
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2fc0bbce-4105-4dd6-a0b3-19ece80f716f/deht1ei-52e7a3cb-18da-403b-a887-82a9d8286b52.png/v1/fill/w_752,h_1063,strp/__render___ai_hayasaka___kaguya_sama_love_is_war_by_shuyunova_deht1ei-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTczOCIsInBhdGgiOiJcL2ZcLzJmYzBiYmNlLTQxMDUtNGRkNi1hMGIzLTE5ZWNlODBmNzE2ZlwvZGVodDFlaS01MmU3YTNjYi0xOGRhLTQwM2ItYTg4Ny04MmE5ZDgyODZiNTIucG5nIiwid2lkdGgiOiI8PTEyMjkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.9D--4DPLE2XAFGTqv5TOmj3AqGrf4u27OEl5kkw67hU"
     },
-    "Menou":
     {  
         "_id": {
             "$oid": "62bfc030b72116a20aaaf711"  
@@ -113,7 +103,6 @@
         "seiyuu": "Iori Saeki",  
         "image": "https://cdn.realsport101.com/images/ncavvykf/epicstream/9eb25ecd8770c1034aec2cc636f4f87c8d4df01d-760x400.jpg?rect=25,0,711,400&w=700&h=394&dpr=2"
     },
-    "Magahara Desumi":
     {  
         "_id": {
             "$oid": "62bfc2d9b72116a20aaaf712"  
@@ -128,7 +117,6 @@
         "seiyuu": "Ikumi Hasegawa",  
         "image": "https://nntheblog.b-cdn.net/wp-content/uploads/2022/06/icon-Magahara-Desumi-1.jpg"
     },
-    "Nakano Miku":
     {  
         "_id": {
             "$oid": "62bfc69c2a3bdeb3f56da0ac"  
@@ -143,7 +131,6 @@
         "seiyuu": "Miku Itou",  
         "image": "https://static.wikia.nocookie.net/5toubun-no-hanayome/images/1/1d/859C820B-47AB-4259-BA3A-E56B0F550C8B.gif/revision/latest/scale-to-width-down/185?cb=20210417072112"
     },
-    "Senjougahara Hitagi":
     {  
         "_id": {
             "$oid": "62bfcd4c87e8db83da9c33b9"  
@@ -158,7 +145,6 @@
         "seiyuu": "Chiwa Saitou",  
         "image": "https://i.redd.it/fdik6usthhg21.jpg"
     },
-    "Toga Himiko":
     {  
         "_id": {
             "$oid": "62bfcf6887e8db83da9c33ba"  
@@ -173,7 +159,6 @@
         "seiyuu": "Misato Fukuen",  
         "image": "https://thicc.mywaifulist.moe/waifus/2079/692ceac0413bd67f033558501f8e480f0f8010e6bc1afafff991e6eff06e770d_thumb.png"
     },
-    "Makise Kurisu":
     {  
         "_id": {
             "$oid": "62bfd15187e8db83da9c33bb"  
@@ -188,4 +173,4 @@
         "seiyuu": "Asami Imai",  
         "image": "https://static.zerochan.net/Makise.Kurisu.full.531704.jpg"
     }
-}
+]
