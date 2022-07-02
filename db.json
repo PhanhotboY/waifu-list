@@ -3,16 +3,22 @@
     {  
         "_id": {    
             "$oid": "62bfae4eb72116a20aaaf70a"  
-        },  
-        "name": "Tokisaki Kurumi",  
-        "nickName": "Kurumin, Nightmare",  
-        "dateOfBirth": "June 10th",  
-        "age": 18,  
-        "height": "157 cm",  
-        "hairColor": "black",  
-        "anime": "Date A Live",  
-        "seiyuu": "Asami Sanada",  
-        "image": "https://static.wikia.nocookie.net/date-a-live/images/8/85/Kurumi_surprised.jpeg/revision/latest?cb=20140503085210"
+        },
+        "characterInfo": {
+            "name": "Tokisaki Kurumi",  
+            "nickName": "Kurumin, Nightmare",  
+            "dateOfBirth": "June 10th",  
+            "age": 18
+        },
+        "appearence": {
+            "height": "157 cm",  
+            "hairColor": "black"
+        },
+        "other": {
+            "anime": "Date A Live",  
+            "seiyuu": "Asami Sanada",  
+            "image": "https://static.wikia.nocookie.net/date-a-live/images/8/85/Kurumi_surprised.jpeg/revision/latest?cb=20140503085210"
+        }
     },
     "Sakurajima Mai": 
     {   
